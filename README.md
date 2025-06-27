@@ -26,14 +26,14 @@
 
 ## 🎥 Demo Video & Pitch Deck
 
-📽️ [Watch Demo Video (YouTube)](https://your-youtube-link.com)  
-📊 [View Pitch Deck (Google Slides/PDF)](https://your-link.com/BorderPay-PitchDeck.pdf)
+📽️ [Watch Demo Video (YouTube)](h)  
+📊 [View Pitch Deck (Google Slides/PDF)](https://www.figma.com/deck/ERpXvt3oRcymnh9MpketzZ/BorderPay?node-id=5-178&t=iNm5UPhIZdSRPNzy-1)
 
 ---
 
 ## 🖼️ Figma Prototype
 
-🖌️ [View Interactive Figma Prototype](https://your-figma-link.com)
+🖌️ [View Interactive Figma Prototype](https://www.figma.com/proto/EuTIr7lXngLJRq63EMDqt6/Projects?node-id=82-2245&t=CKJO1kylzL0nLQL9-1)
 
 ---
 
