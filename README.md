@@ -57,8 +57,9 @@ We designed BorderPay to address the lack of seamless, non-card, and resilient p
 ## 📩 Get in Touch
 
 Have feedback, suggestions, or partnership ideas?  
-**Email:** yourname@youremail.com  
-**LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+**Email:** benwrites20@gmail.com 
+**LinkedIn:** [Benedictors](https://www.linkedin.com/in/benedictors-ogada-9b905b16a/)
+**Twitter:** [Bendictors](https://twitter.com/benedictors_)
 
 ---
 
