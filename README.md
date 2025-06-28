@@ -26,7 +26,7 @@
 
 ## 🎥 Demo Video & Pitch Deck
 
-📽️ [Watch Demo Video (YouTube)]([h](https://youtu.be/zAuRzzP_9NU))  
+📽️ [Watch Demo Video (YouTube)](https://youtu.be/zAuRzzP_9NU) 
 📊 [View Pitch Deck (Google Slides/PDF)](https://www.figma.com/deck/ERpXvt3oRcymnh9MpketzZ/BorderPay?node-id=5-178&t=iNm5UPhIZdSRPNzy-1)
 
 ---
