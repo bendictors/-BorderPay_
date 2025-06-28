@@ -61,7 +61,7 @@ Have feedback, suggestions, or partnership ideas?
 
 **LinkedIn:** [Benedictors](https://www.linkedin.com/in/benedictors-ogada-9b905b16a/)
 
-**Twitter:** [Bendictors](https://twitter.com/benedictors_)
+**Twitter:** [Bendictors](https://x.com/Ben_Diktos)
 
 ---
 
